@@ -9,7 +9,7 @@
     <author email="david@blackmad.com" href="http://blackmad.com">
         Blackmade Productions x Assemble
     </author>
-    <content src="out.html" />
+    <content src="index.html" />
     <access origin="*" />
     <preference name="DisallowOverscroll" value="true" />
     <preference name="android-minSdkVersion" value="14" />
